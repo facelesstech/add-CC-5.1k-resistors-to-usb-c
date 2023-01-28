@@ -1,0 +1,59 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,6.0.9+dfsg-1~bpo11+1*%
+%TF.CreationDate,2022-12-18T16:32:11+00:00*%
+%TF.ProjectId,USB-C-to-C Power Mod,5553422d-432d-4746-9f2d-4320506f7765,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 6.0.9+dfsg-1~bpo11+1) date 2022-12-18 16:32:11*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10O,0.300000X0.700000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11O,0.600000X1.000000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,J1,1,Pin_1*%
+%TO.N,N/C*%
+X143154400Y-92330400D03*
+%TD*%
+D11*
+%TO.P,REF\u002A\u002A,1*%
+%TO.N,N/C*%
+X141706600Y-92275000D03*
+%TD*%
+D10*
+%TO.P,J1,1,Pin_1*%
+%TO.N,Net-(J1-Pad1)*%
+X146120400Y-92328900D03*
+%TD*%
+D11*
+%TO.P,REF\u002A\u002A,1*%
+%TO.N,N/C*%
+X148076200Y-92273500D03*
+%TD*%
+D10*
+%TO.P,J2,1,Pin_1*%
+%TO.N,Net-(J2-Pad1)*%
+X146634200Y-98118800D03*
+%TD*%
+%TO.P,J1,1,Pin_1*%
+%TO.N,Net-(J1-Pad1)*%
+X143637000Y-98118800D03*
+%TD*%
+D11*
+%TO.P,REF\u002A\u002A,1*%
+%TO.N,N/C*%
+X148082000Y-98174200D03*
+%TD*%
+%TO.P,REF\u002A\u002A,1*%
+%TO.N,N/C*%
+X141681200Y-98174200D03*
+%TD*%
+M02*
